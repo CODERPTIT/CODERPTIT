@@ -1,4 +1,4 @@
-# <p align="center">✨ NGUYỄN VĂN HIẾU | AI ENGINEER ✨</p>
+# <p align="center">✨ NGUYỄN VĂN HIẾU | AI RESEARCH ENGINEER ✨</p>
 
 
 
