@@ -27,7 +27,7 @@
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" style="vertical-align: top; margin-top: 2px;" alt="Hugging Face" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,mysql,mongo" />
+      <img src="https://skillicons.dev/icons?i=java,fastapi,mongo" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,github,postman" />
