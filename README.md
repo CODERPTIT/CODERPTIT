@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Building+RAG+Systems;Fine-tuning+LLM+Models;NLP+Research+%26+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Building+Agent+RAG+Systems;Fine-tuning+LLM+Models;NLP+Research+%26+Development" alt="Typing SVG" />
 </p>
 
 ---
